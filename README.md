@@ -12,9 +12,7 @@
 - 🤝 I’m looking for help with **DevOps**
 
 - 💬 Ask me about **DevOps**
-
-- 📫 How to reach me **zakariakarim1616@gmail.com**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zakariaa-sadek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakariaa-sadek" height="30" width="40" /></a>
