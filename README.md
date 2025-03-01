@@ -60,8 +60,8 @@
     <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40" /> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zak4sad&show_icons=true&locale=en&layout=compact" alt="zak4sad" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zak4sad&show_icons=true&locale=en&layout=compact&theme=radical" alt="zak4sad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zak4sad&show_icons=true&locale=en" alt="zak4sad" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zak4sad&show_icons=true&locale=en&theme=radical" alt="zak4sad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zak4sad&" alt="zak4sad" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zak4sad&theme=radical" alt="zak4sad" /></p>
